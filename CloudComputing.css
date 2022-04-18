@@ -319,3 +319,14 @@
     left: 430px;
     display: inline-block;
 }
+@media (max-width :1200px) {
+    .footer1 {
+        width: 1300px;
+    }
+    .top {
+        width: 1300px;
+    }
+    .navbar {
+        width: 1300px;
+    }
+}
